@@ -8,7 +8,9 @@ func main() {
 	nums[1] = 20
 
 	// Array Length
-	fmt.Println(len(nums))
-	fmt.Println(nums)
-	fmt.Println(nums[0])
+	fmt.Println("Hello")
+	// fmt.Println(len(nums))
+	// fmt.Println(nums)
+	// fmt.Println(nums[0])
 }
+
